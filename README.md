@@ -23,6 +23,13 @@
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 </p>
     
+## 🤖 My Discord Music Bot:
+    
+- **[Invite Bot](https://discord.com/oauth2/authorize?client_id=910190937932701716&scope=bot+applications.commands&permissions=67492929)**
+- **[Support Server](https://discord.gg/hKJHUF9d88)**    
+- **[Top.gg](https://top.gg/bot/910190937932701716)**   
+- **[Vote For Us](https://top.gg/bot/910190937932701716/vote)**       
+    
 ## 🔗 Contact:
 
 <p align="left">   
