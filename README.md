@@ -2,13 +2,13 @@
 <h3 align="center">I am a new developer from the Czech Republic.</h3>
 
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About Me:
 
-- 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m currently working on **Discord Music Bot**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 😎 I only do programming in **my spare time!**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 🎬 But I'm a full-time video editor
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
 
