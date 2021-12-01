@@ -47,5 +47,3 @@
 <a href = "https://www.youtube.com/channel/UCVEyOe7MeVJlkLu3obG9jVw"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
-
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
