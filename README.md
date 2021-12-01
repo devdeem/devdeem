@@ -28,3 +28,9 @@
 <p align="left">   
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=DEEM-0001&show_icons=true&theme=radical" />
 </p>
+
+## 💥 Contact:
+
+**[Discord Server](https://discord.gg/hKJHUF9d88)**
+**[Instagram](https://www.instagram.com/alex.deemoff/)**
+**[YouTube](https://www.youtube.com/channel/UCVEyOe7MeVJlkLu3obG9jVw)**
