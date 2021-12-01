@@ -22,15 +22,17 @@
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 </p>
+    
+## 🔗 Contact:
+
+<p align="left">   
+    <a href="https://discord.gg/hKJHUF9d88" target="_blank"> <img src="https://img.icons8.com/color/48/000000/discord.png"/> </a> 
+    <a href="https://www.instagram.com/alex.deemoff/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/instagram-new.png"/> </a> 
+    <a href="https://www.youtube.com/channel/UCVEyOe7MeVJlkLu3obG9jVw" target="_blank"> <img src="https://img.icons8.com/color/48/000000/youtube-play.png"/> </a> 
+</p>
 
 ## 📊 My Github Stats:
     
 <p align="left">   
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=DEEM-0001&show_icons=true&theme=radical" />
 </p>
-
-## 💥 Contact:
-
-**[Discord Server](https://discord.gg/hKJHUF9d88)**
-**[Instagram](https://www.instagram.com/alex.deemoff/)**
-**[YouTube](https://www.youtube.com/channel/UCVEyOe7MeVJlkLu3obG9jVw)**
