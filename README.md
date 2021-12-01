@@ -10,9 +10,9 @@
 
 - 🎬 But I'm a full-time **video editor!**
 
-- ✂ You can find my portfolio here: **[Portfolio](https://deemedit.site/)**
+- ✂ You can find **my portfolio** here: **[Portfolio](https://deemedit.site/)**
 
-- 📫 How to reach me: **Discord: DEEM#0001**
+- 📫 You can contact me on my Discord: **DEEM#0001**
 
 
 ## 🚀 Languages:
