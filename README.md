@@ -10,11 +10,10 @@
 
 - 🎬 But I'm a full-time **video editor!**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
+- ✂ You can find my portfolio here: **[Portfolio](https://deemedit.site/)**
 
-- 📫 How to reach me **subham.raoniar@gmail.com**
+- 📫 How to reach me: **Discord: DEEM#0001**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
 
 ## 🚀 Languages:
 
