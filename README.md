@@ -4,11 +4,11 @@
 
 ## 🙋‍♂️ About Me:
 
-- 🔭 I’m currently working on **Discord Music Bot**
+- 🔭 I’m currently working on **Discord Music Bot!**
 
 - 😎 I only do programming in **my spare time!**
 
-- 🎬 But I'm a full-time video editor
+- 🎬 But I'm a full-time **video editor!**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
 
