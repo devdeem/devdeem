@@ -1,45 +1,45 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm DEEM</h1>
-<h3 align="center">I am a new developer from the Czech Republic.</h3>
-
 
 ## 🙋‍♂️ About Me:
 
-- 🔭 I’m currently working on **Discord Music Bot!**
+- I'm new to programming and I'm trying to learn something
 
-- 😎 I only do programming in **my spare time!**
+- I only program in my spare time because I'm a video editor
 
-- 🎬 But I'm a full-time **video editor!**
+- As I said, I cut videos for YouTubers and I've gotten to a lot of interesting people! For example: **[Natálka](https://www.youtube.com/c/Nat%C3%A1lka04)**, **[Seaser](https://www.youtube.com/channel/UCPa7C85h7S5VcslVO5DMHQA)**
 
-- ✂ You can find **my portfolio** here: **[Portfolio](https://deemedit.site/)**
+- You can find **my portfolio** here: **[Portfolio](https://deemedit.site/)**
 
-- 📫 You can contact me on my Discord: **DEEM#0001**
-
+- Thanks for looking at my profile!
 
 ## 🔨 Languages:
+<div>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
 
-<p align="left"> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-</p>
-    
 ## 🤖 My Discord Music Bot:
     
 - **[Invite Bot](https://discord.com/oauth2/authorize?client_id=910190937932701716&scope=bot+applications.commands&permissions=67492929)**
 - **[Support Server](https://discord.gg/hKJHUF9d88)**    
 - **[Top.gg](https://top.gg/bot/910190937932701716)**   
-- **[Vote For Us](https://top.gg/bot/910190937932701716/vote)**       
-    
-## 🔗 Contact:
+- **[Vote For Us](https://top.gg/bot/910190937932701716/vote)**
 
-<p align="left">   
-    <a href="https://discord.gg/hKJHUF9d88" target="_blank"> <img src="https://img.icons8.com/color/48/000000/discord.png"/> </a> 
-    <a href="https://www.instagram.com/alex.deemoff/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/instagram-new.png"/> </a> 
-    <a href="https://www.youtube.com/channel/UCVEyOe7MeVJlkLu3obG9jVw" target="_blank"> <img src="https://img.icons8.com/color/48/000000/youtube-play.png"/> </a> 
-</p>
-
+      
 ## 📊 My Github Stats:
-    
-<p align="left">   
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=DEEM-0001&show_icons=true&theme=radical" />
-</p>
+<div align="left">
+  <a href="https://github.com/DEEM-0001">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DEEM-0001&count_private=true&show_icons=true&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEEM-0001&show_icons=true&theme=radical"/>
+</div>
+
+## 🔗 Contact:
+<div> 
+  <a href="https://www.youtube.com/channel/UCVEyOe7MeVJlkLu3obG9jVw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/alex.deemoff/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://invite.deem.fun/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:editdeem@seznam.cz"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
