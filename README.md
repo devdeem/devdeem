@@ -11,40 +11,6 @@
 </p>
 <br>
 
-<h2 style="font-size:30px" align ="left" width = 100%><u>🙋‍♂️About me:</u></h2>
-<ul>
-<li>I'm new to programming and I'm trying to learn something</li>
-<li>I only program in my spare time because I'm a video editor</li>
-<li>As I said, I cut videos for YouTubers and I've gotten to a lot of interesting people!</li>
-<li>You can find my portfolio here: https://deemedit.site/</li>
-<li>Thanks for looking at my profile!</li>
-<ul>
-</div>
-<br>
-
-
-<h2 style="font-size:30px" align ="left" width = 100%><u>🚀Languages:</u></h2>
-<a href="https://www.javascript.com/" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript" /> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> </a>
- </a> <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python 3-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="python"  /> </a>
-<br>
-<br>
-<br>
-<div>
- 
-<h2  > 📣 Join us now:</h2>
-
-[<img align="left" alt="youtube" src="https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCVEyOe7MeVJlkLu3obG9jVw)
-<br>  
-[<img align="left" alt="discord" src="https://img.shields.io/badge/Discord-5165f6?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/hKJHUF9d88)
-<br>  
-[<img align="left" alt="github" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/DEEM-0001)
-<br>  
-[<img align="left" alt="dev.to" src="https://img.shields.io/badge/twitch-9147ff?logo=twitch&logoColor=white&style=for-the-badge"/>](https://www.twitch.tv/deemedits_)
-<br>  
-</div>
-<br>
-
 ## 📊 My Github Stats:
 <p align="left">
   <a href="https://github.com/DEEM-0001">
