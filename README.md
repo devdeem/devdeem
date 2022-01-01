@@ -11,7 +11,7 @@
 </p>
 <br>
 
-<h2 style="font-size:30px"><b> 🙋‍♂️About me: <b></h2>
+<h2 style="font-size:30px" align ="left" width = 100%><u>🙋‍♂️About me:</u></h2>
 <ul>
 <li>I'm new to programming and I'm trying to learn something</li>
 <li>I only program in my spare time because I'm a video editor</li>
