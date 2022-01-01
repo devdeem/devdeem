@@ -11,8 +11,6 @@
 </p>
 <br>
 
-<img src = "https://i.imgur.com/yb4hY6S.png" align ="right" width = 50%>
-<div align = left width = 50%>
 <h2 style="font-size:30px"><b> 🙋‍♂️About me: <b></h2>
 <ul>
 <li>I'm new to programming and I'm trying to learn something</li>
@@ -32,7 +30,6 @@
 <br>
 <br>
 <br>
-<img src ="https://i.imgur.com/NHw4oi1.png" align = "left" width = 50%>
 <div>
  
 <h2  > 📣 Join us now:</h2>
