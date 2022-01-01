@@ -23,7 +23,7 @@
 <br>
 
 
-<h2 style="font-size:30px" align ="center" width = 100%><u>🚀Languages:</u></h2>
+<h2 style="font-size:30px" align ="left" width = 100%><u>🚀Languages:</u></h2>
 <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript" /> </a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> </a>
  </a> <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python 3-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="python"  /> </a>
@@ -34,19 +34,19 @@
  
 <h2  > 📣 Join us now:</h2>
 
-[<img align="top" alt="youtube" src="https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCVEyOe7MeVJlkLu3obG9jVw)
+[<img align="left" alt="youtube" src="https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCVEyOe7MeVJlkLu3obG9jVw)
 <br>  
-[<img align="top" alt="discord" src="https://img.shields.io/badge/Discord-5165f6?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/hKJHUF9d88)
+[<img align="left" alt="discord" src="https://img.shields.io/badge/Discord-5165f6?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/hKJHUF9d88)
 <br>  
-[<img align="top" alt="github" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/DEEM-0001)
+[<img align="left" alt="github" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/DEEM-0001)
 <br>  
-[<img align="top" alt="dev.to" src="https://img.shields.io/badge/twitch-9147ff?logo=twitch&logoColor=white&style=for-the-badge"/>](https://www.twitch.tv/deemedits_)
+[<img align="left" alt="dev.to" src="https://img.shields.io/badge/twitch-9147ff?logo=twitch&logoColor=white&style=for-the-badge"/>](https://www.twitch.tv/deemedits_)
 <br>  
 </div>
 <br>
 
 ## 📊 My Github Stats:
-<p align="right">
+<p align="left">
   <a href="https://github.com/DEEM-0001">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DEEM-0001&count_private=true&show_icons=true&theme=radical"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEEM-0001&show_icons=true&theme=radical"/>
