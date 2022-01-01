@@ -23,7 +23,7 @@
 <br>
 
 
-<h2 style="font-size:30px" align ="left" width = 100%><u>🚀Languages:</u></h2>
+<h2 style="font-size:30px" align ="center" width = 100%><u>🚀Languages:</u></h2>
 <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript" /> </a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> </a>
  </a> <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python 3-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="python"  /> </a>
