@@ -1,7 +1,6 @@
 <h1 align="left">Hi 👋, I'm DEEM</h1>
-- Noob backend developer:)
-
-<br>
+- Noob backend dev
+- 
 <br>
 <br>
 <div>
