@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm DEEM</h1> 
 <img alt="DEEM" src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Backend+Developer;Video+Maker;Discord+Bot+Developer">
-🤖 - I'm currently working on a Discord Bot: https://deebot.fun/
+🤖 - I'm currently working on a Discord Bot
 <br>🔧 - I'm learning to program
 <br>🎥 - I'm a full-time Video Editor
 <h3 align="left">Languages:</h3> 
