@@ -1,5 +1,4 @@
 <h1 align="left">Hi 👋, I'm DEEM</h1> 
-<img alt="DEEM" src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Backend+Developer;Video+Maker;Discord+Bot+Developer">
 
  ```python
  class AboutMe:
