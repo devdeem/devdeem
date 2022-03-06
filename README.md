@@ -2,8 +2,8 @@
 
 My work:
 Owner/Developer: https://github.com/DeeB0T
-Admin: https://github.com/NeroDevelopment
-Contributor: https://github.com/xWass/Djs-Version-13
+<br>Admin: https://github.com/NeroDevelopment
+<br>Contributor: https://github.com/xWass/Djs-Version-13
 
 ## Programming Languages
 <div style="display: block;">
