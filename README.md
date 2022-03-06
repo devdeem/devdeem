@@ -1,21 +1,9 @@
 <h1 align="left">Hi 👋, I'm DEEM</h1> 
 
- ```python
- class AboutMe:
-     const user = require('userinfo');
-     "name:" 'DEEM',
-     "tag:" "#0001",
-     "ID:"887395123145609218"
-       
-    def Languages():
-        return Python()
-        return JavaScript()
-        return HTML&CSS()
-        return PHP()
-        
-    def Location():
-	    return Czechia, Ostrava()
-```
+My work:
+Owner/Developer: https://github.com/DeeB0T
+Admin: https://github.com/NeroDevelopment
+Contributor: https://github.com/xWass/Djs-Version-13
 
 ## Programming Languages
 <div style="display: block;">
