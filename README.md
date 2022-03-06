@@ -1,10 +1,5 @@
 <h1 align="left">Hi 👋, I'm DEEM</h1> 
 
-My work:
-Owner/Developer: https://github.com/DeeB0T
-<br>Admin: https://github.com/NeroDevelopment
-<br>Contributor: https://github.com/xWass/Djs-Version-13
-
 ## Programming Languages
 <div style="display: block;">
 <img style="margin-bottom: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="36px" />&nbsp;<b>80%</b>
