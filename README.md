@@ -1,5 +1,4 @@
 <h1 align="left">Hi 👋, I'm DEEM</h1> 
-- I'm working on [ProteX Bot](https://protexbot.xyz/) - Discord Music Bot
 
 ## Programming Languages
 <div style="display: block;">
