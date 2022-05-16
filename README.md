@@ -1,5 +1,4 @@
 <p align="center">
-    <img src="https://avatars.githubusercontent.com/u/91419390?v=4" width="192" alt="deem's pfp" />
     <h1 align="center">Hi, my name is DEEM 👋</h1>
 </p>
 
