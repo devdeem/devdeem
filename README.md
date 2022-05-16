@@ -1,7 +1,7 @@
 ## My Account Discord Status: 
  [![Discord Presence](https://lanyard.cnrad.dev/api/887395123145609218)](https://discord.com/users/887395123145609218)
  
-<b>My GitHub Stats</b>
+## My GitHub Stats
 <p>
 <a href="http://www.github.com/DEEM-0001"><img src="https://github-readme-stats.vercel.app/api?username=DEEM-0001&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=3382ed&icon_color=ef4444&bg_color=171717&hide_border=true&show_icons=true" alt="DEEM's GitHub stats" /></a>
 <a href="http://www.github.com/DEEM-0001"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DEEM-0001&stroke=3382ed&background=171717&ring=3382ed&fire=3382ed&currStreakNum=3382ed&currStreakLabel=3382ed&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
