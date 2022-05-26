@@ -18,7 +18,7 @@
 ___
 
 ## My Discord Status: 
- [![Discord Presence](https://lanyard.cnrad.dev/api/887395123145609218)](https://discord.com/users/887395123145609218)
+ [![Discord Presence]([![Discord Presence](https://lanyard.cnrad.dev/api/975898528859697182)](https://discord.com/users/975898528859697182))
 ___
 
 ## My GitHub Stats
