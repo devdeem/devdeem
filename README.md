@@ -2,6 +2,10 @@
     <h1 align="center">Hi, my name is DEEM 👋</h1>
 </p>
 
+- Translator: [maki.gg](https://maki.gg)
+- Owner/Dev: [protexbot.xyz](https://protexbot.xyz)
+- Trial Dev: [nerobot.cz](https://nerobot.cz)
+
 <h3>Languages And Tools 🚀</h3>
 
 <p align="left"> 
