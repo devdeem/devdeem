@@ -31,3 +31,9 @@ ___
 
 ### Support Me
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B2CFA3W)
+
+<a href="https://github.com/NickR69420">
+  <p align="left">
+    <img src="https://komarev.com/ghpvc/?username=DEEM-0001" alt="Profile Views">
+  </p>
+</a>
