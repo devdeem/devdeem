@@ -3,6 +3,7 @@
 </p>
 
 - Translator: [maki.gg](https://maki.gg)
+- Translator: [myra.bot](https://myra.bot/)
 - Owner/Dev: [protexbot.xyz](https://protexbot.xyz)
 - Trial Dev: [nerobot.cz](https://nerobot.cz)
 
