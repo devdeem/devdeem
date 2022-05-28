@@ -2,10 +2,10 @@
     <h1 align="center">Hi, my name is DEEM 👋</h1>
 </p>
 
-- Translator: [maki.gg](https://maki.gg)
-- Translator: [myra.bot](https://myra.bot/)
-- Owner/Dev: [protexbot.xyz](https://protexbot.xyz)
-- Trial Dev: [nerobot.cz](https://nerobot.cz)
+- Translator: [`maki.gg`](https://maki.gg)
+- Translator: [`myra.bot`](https://myra.bot/)
+- Owner/Dev: [`protexbot.xyz`](https://protexbot.xyz)
+- Trial Dev: [`nerobot.cz`](https://nerobot.cz)
 
 <h3>Languages And Tools 🚀</h3>
 
@@ -37,11 +37,11 @@ ___
 ### Support Me
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B2CFA3W)
 
-<a href="https://github.com/NickR69420">
+<a href="https://github.com/DEEM-0001">
   <p align="left">
     <img src="https://komarev.com/ghpvc/?username=DEEM-0001" alt="Profile Views">
   </p>
 </a>
 
-### Contributions
-![](https://github.com/DEEM-0001/DEEM-0001/raw/output/github-contribution-grid-snake.svg)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/DEEM-0001?label=Sponsor&logo=GitHub%20Sponsors&style=flat-square)](https://github.com/sponsors/DEEM-0001)
+[![Discord](https://img.shields.io/discord/979127858322624562?label=Discord&logo=DISCORD&style=flat-square)](https://discord.gg/EWzf9AgKy8)
