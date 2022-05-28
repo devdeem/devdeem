@@ -6,20 +6,16 @@
     <a href="https://github.com/sponsors/DEEM-0001" target"_blank"> <img src="https://img.shields.io/github/sponsors/DEEM-0001?label=Sponsor&logo=GitHub%20Sponsors&style=flat-square" /> </a>
        <a href="https://discord.gg/EWzf9AgKy8" target"_blank"> <img src="https://img.shields.io/discord/979127858322624562?label=Discord&logo=DISCORD&style=flat-square" /> </a>
     
-<p align="center">
-    Translator:
-    <a href="https://maki.gg">Maki</a>
-    <br>Translator:
-    <a href="https://myra.bot/">Myra Bot</a>
-    <br>Owner/Dev:
-    <a href="https://protexbot.xyz">ProteX Bot</a>
-    <br>Trial Dev:
-    <a href="https://nerobot.cz">Nero Bot</a>
-</p>
-
+&nbsp;
+    
 <h2 align="center">
     Languages And Tools 🚀
 </h2>
+<p align="center">
+    Check out some of the languages and tools I know and use:
+</p>
+
+&nbsp;
 
 <p align="center"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
