@@ -42,3 +42,6 @@ ___
     <img src="https://komarev.com/ghpvc/?username=DEEM-0001" alt="Profile Views">
   </p>
 </a>
+
+### Contributions
+![](https://github.com/DEEM-0001/DEEM-0001/raw/output/github-contribution-grid-snake.svg)
