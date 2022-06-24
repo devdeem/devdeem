@@ -4,7 +4,7 @@
 
 <p align="center">
     <a href="https://github.com/sponsors/DEEM-0001" target"_blank"> <img src="https://img.shields.io/github/sponsors/DEEM-0001?label=Sponsor&logo=GitHub%20Sponsors&style=flat-square" /> </a>
-       <a href="https://discord.gg/EWzf9AgKy8" target"_blank"> <img src="https://img.shields.io/discord/979127858322624562?label=Discord&logo=DISCORD&style=flat-square" /> </a>
+       <a href="https://discord.gg/yVSftxfsy2" target"_blank"> <img src="https://img.shields.io/discord/979127858322624562?label=Discord&logo=DISCORD&style=flat-square" /> </a>
     
 &nbsp;
     
