@@ -57,7 +57,7 @@
     <a href="https://github.com/DEEM-0001/nginx-alert">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=DEEM-0001&repo=nginx-alert&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true/" />
     </a>
-    <a href="https://github.com/DEEM-0001/Password-Generator">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DEEM-0001&repo=Password-Generator&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true/" />
+    <a href="https://github.com/DEEM-0001/Logger-Bot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DEEM-0001&repo=Logger-Bot&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true/" />
     </a>
 </p>
