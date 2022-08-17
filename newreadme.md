@@ -18,7 +18,23 @@
     <img src="https://img.shields.io/badge/JavaScript-323540?style=for-the-badge&logo=javascript&logoColor=5294E2" alt="JavaScript" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/TypeScript-323540?style=for-the-badge&logo=typescript&logoColor=5294E2" alt="TypeScript" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Python-323540?style=for-the-badge&logo=python&logoColor=5294E2" alt="Python" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/React-323540?style=for-the-badge&logo=react&logoColor=5294E2" alt="Python" style="border-radius:15px"/>
+</div>
+
+<h1 align="center">
+    Tools And Technology
+</h1>
+
+<div align="center">
+    <img src="https://img.shields.io/badge/Node.js-323540?style=for-the-badge&logo=node.js&logoColor=5294E2" alt="Node.js" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Deno.js-323540?style=for-the-badge&logo=deno&logoColor=5294E2" alt="Deno.js" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/React-323540?style=for-the-badge&logo=react&logoColor=5294E2" alt="React.js"  style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/HTML5-323540?style=for-the-badge&logo=html5&logoColor=5294E2" alt="HTML5" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/CSS3-323540?style=for-the-badge&logo=css3&logoColor=5294E2" alt="CSS3" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/MongoDB-323540?style=for-the-badge&logo=mongodb&logoColor=5294E2" alt="MongoDB" style="border-radius:15px"/>
+    <br/>
+    <img src="https://img.shields.io/badge/Redis-323540.svg?style=for-the-badge&logo=redis&logoColor=5294E2" alt="Redis" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/git-323540.svg?style=for-the-badge&logo=git&logoColor=5294E2" alt="Git" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Markdown-323540?style=for-the-badge&logo=markdown&logoColor=5294E2" alt="Markdown" style="border-radius:15px"/>
 </div>
 
 <h1 align="center">
@@ -38,6 +54,9 @@
     <a href="https://github.com/DEEM-0001">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=DEEM-0001&show_icons=true&theme=dark" />
     </a>
+    <div align="center"> 
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=DEEM-0001&custom_title=%20Contribution%20Graph&bg_color=dark&color=5294E2&line=FFFFFF&point=5294E2&hide_border=F84C4C&count_private=false"  alt="contributiongraf"/>
+</div>
 <p>
     
 <h1 align="center">
