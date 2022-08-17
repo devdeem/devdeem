@@ -2,7 +2,7 @@
     <h1 align="center">Hi, my name is DEEM 👋</h1>
 </p>
 <div align="center">
-    <h4 align="center"><samp> Backend Developer - VideoMaker - Director</samp></h4>
+    <h3 align="center"><samp> Backend Developer - VideoMaker - Director</samp></h3>
 </div>
 
 <p align="center">
