@@ -1,4 +1,15 @@
 <p align="center">
+    <h1 align="center">Hi, my name is DEEM 👋</h1>
+</p>
+<p align="center">
+    <a href="https://github.com/sponsors/DEEM-0001" target"_blank"> 
+      <img src="https://img.shields.io/github/sponsors/DEEM-0001?label=Sponsor&logo=GitHub%20Sponsors&style=for-the-badge" /> 
+  </a>
+    <a href="https://discord.gg/FtBVPeC2Sf" target"_blank"> 
+      <img src="https://img.shields.io/discord/993525327798210681?label=Discord&logo=DISCORD&style=for-the-badge" />
+</a>
+
+<p align="center">
   <a href="https://github.com/DEEM-0001">
     <img src="https://github-readme-stats.vercel.app/api?username=DEEM-0001&show_icons=true&theme=dark" />
 </p>
