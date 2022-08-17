@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="Banner.png" alt="Banner" />
+</div>
+
 <p align="center">
     <h1 align="center">Hi, my name is DEEM 👋</h1>
 </p>
