@@ -1,63 +1,72 @@
 <p align="center">
     <h1 align="center">Hi, my name is DEEM 👋</h1>
 </p>
+<div align="center">
+    <h4 align="center"><samp> Backend Developer - VideoMaker - Director</samp></h4>
+</div>
 
 <p align="center">
-    <a href="https://github.com/sponsors/DEEM-0001" target"_blank"> <img src="https://img.shields.io/github/sponsors/DEEM-0001?label=Sponsor&logo=GitHub%20Sponsors&style=flat-square" /> </a>
-       <a href="https://discord.gg/FtBVPeC2Sf" target"_blank"> <img src="https://img.shields.io/discord/993525327798210681?label=Discord&logo=DISCORD&style=flat-square" /> </a>
-    
-&nbsp;
-    
-<h2 align="center">
-    Languages And Tools 🚀
-</h2>
-<p align="center">
-    Check out some of the languages and tools I know and use:
+    <a href="https://www.instagram.com/alex.deemoff/"><img src="https://img.shields.io/badge/Instagram-323540?style=for-the-badge&logo=instagram&logoColor=5294E2" style="border-radius:15px" alt="Instagram"></a>
+    <a href="https://discord.gg/FtBVPeC2Sf"><img src="https://img.shields.io/badge/Discord-323540?style=for-the-badge&logo=discord&logoColor=5294E2" style="border-radius:15px" alt="Discord"></a>
 </p>
 
-&nbsp;
+<h1 align="center">
+    Programming Languages
+</h1>
 
-<p align="center"> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-</p>
+<div align="center">
+    <img src="https://img.shields.io/badge/JavaScript-323540?style=for-the-badge&logo=javascript&logoColor=5294E2" alt="JavaScript" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/TypeScript-323540?style=for-the-badge&logo=typescript&logoColor=5294E2" alt="TypeScript" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Python-323540?style=for-the-badge&logo=python&logoColor=5294E2" alt="Python" style="border-radius:15px"/>
+</div>
 
-<h2 align="center">
+<h1 align="center">
+    Tools And Technology
+</h1>
+
+<div align="center">
+    <img src="https://img.shields.io/badge/Node.js-323540?style=for-the-badge&logo=node.js&logoColor=5294E2" alt="Node.js" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Deno.js-323540?style=for-the-badge&logo=deno&logoColor=5294E2" alt="Deno.js" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/React-323540?style=for-the-badge&logo=react&logoColor=5294E2" alt="React.js"  style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/HTML5-323540?style=for-the-badge&logo=html5&logoColor=5294E2" alt="HTML5" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/CSS3-323540?style=for-the-badge&logo=css3&logoColor=5294E2" alt="CSS3" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/MongoDB-323540?style=for-the-badge&logo=mongodb&logoColor=5294E2" alt="MongoDB" style="border-radius:15px"/>
+    <br/>
+    <img src="https://img.shields.io/badge/Redis-323540.svg?style=for-the-badge&logo=redis&logoColor=5294E2" alt="Redis" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/git-323540.svg?style=for-the-badge&logo=git&logoColor=5294E2" alt="Git" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Markdown-323540?style=for-the-badge&logo=markdown&logoColor=5294E2" alt="Markdown" style="border-radius:15px"/>
+</div>
+
+<h1 align="center">
     Discord Status
-</h2>
-    
+</h1>
 <p align="center">
     <a href="https://github.com/DEEM-0001">
-<img src="https://lanyard.cnrad.dev/api/975898528859697182?theme=dark&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Nothing+xd" />
+      <img src="https://lanyard.cnrad.dev/api/975898528859697182?theme=dark&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Nothing+xd" />
 </p>
     
-<h2 align="center">
+<h1 align="center">
     My GitHub Stats
-</h2>
-
-<p align="center">
+</h1>
+  <p align="center">
     <a href="https://github.com/DEEM-0001/">
-        <img src="https://github-readme-stats.vercel.app/api?username=DEEM-0001&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=f04848&hide_border=true/" />
-    <a href="https://github.com/Crni39/">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=DEEM-0001&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF)](https://git.io/streak-stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=DEEM-0001&show_icons=true&theme=dark" />
+    <a href="https://github.com/DEEM-0001">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=DEEM-0001&show_icons=true&theme=dark" />
     </a>
+    <div align="center"> 
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=DEEM-0001&custom_title=%20Contribution%20Graph&bg_color=dark&color=5294E2&line=FFFFFF&point=5294E2&hide_border=F84C4C&count_private=false"  alt="contributiongraf"/>
+</div>
 <p>
-
-<h2 align="center">
-    And here are my favorite GitHub <strong>repositories</strong>!
-</h2>
-
+    
+<h1 align="center">
+    And here are my favorite GitHub repositories!
+</h1>
 <p align="center">
-    <a href="https://github.com/DEEM-0001/nginx-alert">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DEEM-0001&repo=nginx-alert&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true/" />
-    </a>
     <a href="https://github.com/DEEM-0001/Logger-Bot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DEEM-0001&repo=Logger-Bot&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true/" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DEEM-0001&repo=Logger-Bot&theme=dark&show_owner=DEEM-0001" />
+    </a>
+    <a href="https://github.com/DEEM-0001/DEEM-0001">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DEEM-0001&repo=DEEM-0001&theme=dark&show_owner=DEEM-0001" />
     </a>
 </p>
