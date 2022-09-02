@@ -67,3 +67,8 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=DEEM-0001&repo=Logger-Bot&theme=dark&show_owner=DEEM-0001" />
     </a>
 </p>
+<p align="center">
+    <a href="https://github.com/DEEM-0001/status-pages">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DEEM-0001&repo=status-pages&theme=dark&show_owner=DEEM-0001" />
+    </a>
+</p>
