@@ -7,7 +7,7 @@
 
 <p align="center">
     <a href="https://www.instagram.com/alex.deemoff/"><img src="https://img.shields.io/badge/Instagram-323540?style=for-the-badge&logo=instagram&logoColor=5294E2" style="border-radius:15px" alt="Instagram"></a>
-    <a href="https://discord.gg/FtBVPeC2Sf"><img src="https://img.shields.io/badge/Discord-323540?style=for-the-badge&logo=discord&logoColor=5294E2" style="border-radius:15px" alt="Discord"></a>
+    <a href="https://invite.roblybot.xyz"><img src="https://img.shields.io/badge/Discord-323540?style=for-the-badge&logo=discord&logoColor=5294E2" style="border-radius:15px" alt="Discord"></a>
 </p>
 
 <h1 align="center">
@@ -54,9 +54,6 @@
     <a href="https://github.com/DEEM-0001">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=DEEM-0001&show_icons=true&theme=dark" />
     </a>
-    <div align="center"> 
-    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=DEEM-0001&custom_title=%20Contribution%20Graph&bg_color=dark&color=5294E2&line=FFFFFF&point=5294E2&hide_border=F84C4C&count_private=false"  alt="contributiongraf"/>
-</div>
 <p>
     
 <h1 align="center">
