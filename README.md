@@ -1,15 +1,3 @@
-<p align="center">
-    <h1 align="center">Hi, my name is DEEM 👋</h1>
-</p>
-<div align="center">
-    <h3 align="center"><samp> Backend Developer - VideoMaker - Director</samp></h3>
-</div>
-
-<p align="center">
-    <a href="https://www.instagram.com/alex.deemoff/"><img src="https://img.shields.io/badge/Instagram-323540?style=for-the-badge&logo=instagram&logoColor=5294E2" style="border-radius:15px" alt="Instagram"></a>
-    <a href="https://invite.roblybot.xyz"><img src="https://img.shields.io/badge/Discord-323540?style=for-the-badge&logo=discord&logoColor=5294E2" style="border-radius:15px" alt="Discord"></a>
-</p>
-
 <h1 align="center">
     Programming Languages
 </h1>
@@ -57,15 +45,15 @@
 <p>
     
 <h1 align="center">
-    And here are my favorite GitHub repositories!
+    Here is my favorite GitHub repository!
 </h1>
 <p align="center">
     <a href="https://github.com/DEEM-0001/Logger-Bot">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=DEEM-0001&repo=Logger-Bot&theme=dark&show_owner=DEEM-0001" />
     </a>
 </p>
-        
-<p align="center"> 
+       
+<h1 align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/DEEM-0001/count.svg" />
-</p>
+</h1>
