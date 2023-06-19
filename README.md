@@ -67,7 +67,3 @@ _Other things what I use:_
 ## **My favorite repository**
 
 ![rep1](https://github-readme-stats.vercel.app/api/pin/?username=DEEM-0001&repo=Logger-Bot&theme=dark&show_owner=DEEM-0001)
-
-## **Visitor Count**
-
-![count](https://profile-counter.glitch.me/DEEM-0001/count.svg)
