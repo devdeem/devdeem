@@ -1,6 +1,8 @@
 # **Hello, I'm DEEM 👋**
 
-My name is **DEEM** and I am from **Czech Republic**, I like to work alone and on private projects but I also have some open-source projects🫡
+My name is **DEEM** and I am from **Czech Republic**.
+
+I like to work alone and on private projects but I also have some open-source projects.
 
 ## **Discord Status** (@deemdev)
 
