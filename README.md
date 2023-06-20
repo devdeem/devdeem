@@ -67,3 +67,14 @@ _Other things what I use:_
 ## **My favorite repository**
 
 ![rep1](https://github-readme-stats.vercel.app/api/pin/?username=DEEM-0001&repo=Logger-Bot&theme=dark&show_owner=DEEM-0001)
+
+<h1 align="center">
+  Sponsors
+</h1>
+
+<p align="center">
+<a href="https://github.com/SlenkyDev"><img src="https://avatars.githubusercontent.com/u/71548884?v=4" width="50px" alt="Slenky" /></a>&nbsp;&nbsp;
+<a href="https://github.com/hegyok"><img src="https://avatars.githubusercontent.com/u/45619085?v=4" width="50px" alt="Hegy" /></a>&nbsp;&nbsp;
+<a href="https://github.com/PedrexDev"><img src="https://avatars.githubusercontent.com/u/73689887?v=4" width="50px" alt="Pedrex" /></a>&nbsp;&nbsp;
+<a href="https://github.com/Kwertzyy"><img src="https://avatars.githubusercontent.com/u/94077589?v=4" width="50px" alt="Kwertzyy" /></a>&nbsp;&nbsp;
+</p>
