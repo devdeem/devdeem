@@ -10,8 +10,6 @@ I like to work alone and on private projects but I also have some open-source pr
 
 ## **Programming Languages**
 
-_Here is a list of programming languages I know:_
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFC300?logo=JavaScript&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-2f74c0?logo=TypeScript&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-356a98?logo=python&logoColor=white&style=for-the-badge)
@@ -22,15 +20,11 @@ _Here is a list of programming languages I know:_
 
 ## **Databases**
 
-_Databases what I use/know:_
-
 ![MONGODB](https://img.shields.io/badge/-MongoDB-449b45?logo=mongodb&logoColor=white&style=for-the-badge)
 ![Redis](https://img.shields.io/badge/-redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)
 ![GoogleCloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
 
 ## **Tools**
-
-_Things what I use for programming:_
 
 ![NodeJS](https://img.shields.io/badge/-Node%20JS-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
 ![Deno](https://img.shields.io/badge/-Deno-000000?logo=deno&logoColor=white&style=for-the-badge)
@@ -41,16 +35,12 @@ _Things what I use for programming:_
 
 ## **Programs**
 
-_Programs what I use for programming:_
-
 ![VSC](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 ![IDE](https://img.shields.io/badge/-Eclipse%20IDE-2C2255?logo=eclipseide&logoColor=white&style=for-the-badge)
 ![Vim](https://img.shields.io/badge/-Vim-019733?logo=vim&logoColor=white&style=for-the-badge)
 ![JetBrains](https://img.shields.io/badge/-Jet%20Brains-000000?logo=jetbrains&logoColor=white&style=for-the-badge)
 
 ## **Other**
-
-_Other things what I use:_
 
 ![NGINX](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)
 ![NPM](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white&style=for-the-badge)
@@ -67,14 +57,3 @@ _Other things what I use:_
 ## **My favorite repository**
 
 ![rep1](https://github-readme-stats.vercel.app/api/pin/?username=DEEM-0001&repo=Logger-Bot&theme=dark&show_owner=DEEM-0001)
-
-<h1 align="center">
-  Sponsors
-</h1>
-
-<p align="center">
-<a href="https://github.com/SlenkyDev"><img src="https://avatars.githubusercontent.com/u/71548884?v=4" width="50px" alt="Slenky" /></a>&nbsp;&nbsp;
-<a href="https://github.com/hegyok"><img src="https://avatars.githubusercontent.com/u/45619085?v=4" width="50px" alt="Hegy" /></a>&nbsp;&nbsp;
-<a href="https://github.com/PedrexDev"><img src="https://avatars.githubusercontent.com/u/73689887?v=4" width="50px" alt="Pedrex" /></a>&nbsp;&nbsp;
-<a href="https://github.com/Kwertzyy"><img src="https://avatars.githubusercontent.com/u/94077589?v=4" width="50px" alt="Kwertzyy" /></a>&nbsp;&nbsp;
-</p>
