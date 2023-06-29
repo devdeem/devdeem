@@ -57,3 +57,4 @@ I like to work alone and on private projects but I also have some open-source pr
 ## **My favorite repository**
 
 ![rep1](https://github-readme-stats.vercel.app/api/pin/?username=DEEM-0001&repo=Logger-Bot&theme=dark&show_owner=DEEM-0001)
+![rep2](https://github-readme-stats.vercel.app/api/pin/?username=DEEM-0001&repo=term-logger&theme=dark&show_owner=DEEM-0001)
