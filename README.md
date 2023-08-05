@@ -51,10 +51,10 @@ I like to work alone and on private projects but I also have some open-source pr
 
 ## **My GitHub Stats**
 
-![Stats1](https://github-readme-stats.vercel.app/api?username=DEEM-0001&show_icons=true&theme=dark)
-![Stats2](https://github-readme-streak-stats.herokuapp.com?user=DEEM-0001&show_icons=true&theme=dark)
+![Stats1](https://github-readme-stats.vercel.app/api?username=devdeem&show_icons=true&theme=dark)
+![Stats2](https://github-readme-streak-stats.herokuapp.com?user=devdeem&show_icons=true&theme=dark)
 
 ## **My favorite repository**
 
-![rep1](https://github-readme-stats.vercel.app/api/pin/?username=DEEM-0001&repo=Logger-Bot&theme=dark&show_owner=DEEM-0001)
-![rep2](https://github-readme-stats.vercel.app/api/pin/?username=DEEM-0001&repo=term-logger&theme=dark&show_owner=DEEM-0001)
+![rep1](https://github-readme-stats.vercel.app/api/pin/?username=devdeem&repo=Logger-Bot&theme=dark&show_owner=devdeem)
+![rep2](https://github-readme-stats.vercel.app/api/pin/?username=devdeem&repo=term-logger&theme=dark&show_owner=devdeem)
