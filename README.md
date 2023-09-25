@@ -1,11 +1,10 @@
-<a href='https://ko-fi.com/B0B2CFA3W' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-# **Hello, I'm DEEM 👋**
+# **Hello, I'm DEEM 👋** <a href='https://ko-fi.com/B0B2CFA3W' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 My name is **DEEM** and I am from **Czech Republic**.
 
 I like to work alone and on private projects but I also have some open-source projects.
 
-## **Discord Status** (@deemdev)
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31mnhndqjm7uai2njwcpxy4bjm2a&count=1?theme=dark&spin=true)
 
 ![Discord](https://lanyard.cnrad.dev/api/975898528859697182?theme=dark&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Im+not+doing+anything+at+the+moment)
 
