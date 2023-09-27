@@ -51,8 +51,9 @@ I like to work alone and on private projects but I also have some open-source pr
 
 ## **My GitHub Stats**
 
-![Stats1](https://github-readme-stats.vercel.app/api?username=devdeem&show_icons=true&theme=dark)
-![Stats2](https://github-readme-streak-stats.herokuapp.com?user=devdeem&show_icons=true&theme=dark)
+![Stats1](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devdeem&theme=github_dark)
+![Stats2](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devdeem&theme=github_dark)
+![Stats3](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devdeem&theme=github_dark)
 
 ## **Wakatime Stats**
 
