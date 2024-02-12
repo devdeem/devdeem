@@ -4,8 +4,6 @@ My name is **DEEM** and I am from **Czech Republic**.
 
 I like to work alone and on private projects but I also have some open-source projects.
 
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31mnhndqjm7uai2njwcpxy4bjm2a&count=1?theme=dark&spin=true)
-
 ![Discord](https://lanyard.cnrad.dev/api/975898528859697182?theme=dark&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Im+not+doing+anything+at+the+moment)
 
 ## **Programming Languages**
