@@ -54,10 +54,6 @@ I like to work alone and on private projects but I also have some open-source pr
 ![Stats2](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devdeem&theme=github_dark)
 ![Stats3](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devdeem&theme=github_dark)
 
-## **Wakatime Stats**
-
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=deem&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=WakaTime%20Statistics&v=2)
-
 ## **My favorite repository**
 
 ![rep1](https://github-readme-stats.vercel.app/api/pin/?username=devdeem&repo=Logger-Bot&theme=dark&show_owner=true)
