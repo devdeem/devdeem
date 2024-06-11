@@ -24,6 +24,7 @@
       "linkedin": "linkedin.com/in/virgovic-alexandr/",
       "instagram": "@alex.deemoff"
     },
+    "website": "https://deemdev.xyz",
     "donateMe": "https://ko-fi.com/deemdev"
   }
 ]
