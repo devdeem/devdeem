@@ -6,25 +6,22 @@
   {
     "name": "Alexandr Virgovič (DEEM)",
     "pronouns": "he/him",
-    "about": "Full-Stack Developer from Czech Republic",
-    "currentFocus": "Rewriting nerobot.eu website",
-    "planToLearn": "Rust",
+    "about": "Full-Stack Developer from the Czech Republic",
     "skills": {
       "programmingLanguages": ["JavaScript", "TypeScript", "Python", "Go"],
-      "web": ["React", "NextJs", "Svelte", "HTML", "CSS", "TailwindCSS"],
+      "web": ["React", "NextJs", "Svelte", "HTML", "CSS", "TailwindCSS", "Next UI", "Nuxt"],
       "deployment": ["Docker", "Portainer", "Nginx", "CloudFlare"],
       "databases": ["MongoDB", "MySQL", "Redis"],
       "developmentTools": ["GitHub", "Git", "Visual Studio Code", "Jet Brains", "NPMJs"],
       "os": ["Linux", "Ubuntu", "Debian", "Windows"]
     },
-    "hobbies": ["Coding", "Music", "Sports"],
     "connectWithMe": {
       "email": "contact@deemdev.xyz",
       "discord": "@deemdev",
       "linkedin": "linkedin.com/in/virgovic-alexandr/",
       "instagram": "@alex.deemoff"
     },
-    "website": "https://deemdev.xyz",
+    "website": "https://www.deemdev.xyz",
     "donateMe": "https://ko-fi.com/deemdev"
   }
 ]
