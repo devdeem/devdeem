@@ -1,10 +1,10 @@
-# **Welcome on my profile 👋**
+# **Welcome on my profile! 👋**
 [![Wakatime](https://wakatime.com/badge/user/4eeecd2f-b83e-434d-9783-fb202ba16da2.svg)](https://wakatime.com/@4eeecd2f-b83e-434d-9783-fb202ba16da2)
 
 ```json
 [
   {
-    "name": "Alexandr Virgovič (DEEM)",
+    "name": "Alexandr Virgovič",
     "pronouns": "he/him",
     "about": "Full-Stack Developer from the Czech Republic",
     "skills": {
@@ -18,7 +18,6 @@
     "connectWithMe": {
       "email": "contact@deemdev.xyz",
       "discord": "@deemdev",
-      "linkedin": "linkedin.com/in/virgovic-alexandr/",
       "instagram": "@alex.deemoff"
     },
     "website": "https://www.deemdev.xyz",
@@ -37,3 +36,5 @@
 
 ![LoggerBot](https://github-readme-stats.vercel.app/api/pin/?username=devdeem&repo=Logger-Bot&theme=dark&show_owner=true)
 ![Term-Logger](https://github-readme-stats.vercel.app/api/pin/?username=devdeem&repo=term-logger&theme=dark&show_owner=true)
+![Next-Icons](https://github-readme-stats.vercel.app/api/pin/?username=next-icons&repo=client&theme=dark&show_owner=true)
+![Next-Icons](https://github-readme-stats.vercel.app/api/pin/?username=next-icons&repo=next-icons&theme=dark&show_owner=true)
