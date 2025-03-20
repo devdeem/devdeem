@@ -20,8 +20,7 @@
       "discord": "@deemdev",
       "instagram": "@alex.deemoff"
     },
-    "website": "https://www.deemdev.xyz",
-    "donateMe": "https://ko-fi.com/deemdev"
+    "website": "https://www.deemdev.com",
   }
 ]
 ```
